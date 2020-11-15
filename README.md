@@ -1,5 +1,6 @@
 # svg2png
-一个 .NET 工具，提供批量将 SVG 转换为 PNG。
+一个 .NET 工具，提供批量将 SVG 转换为 PNG。  
+[![svg2png](https://buildstats.info/nxhub/svg2png)](https://www.nuget.org/packages/svg2png/)
 
 ## 安装
 ```
